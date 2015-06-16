@@ -27,7 +27,7 @@ class User extends OModule {
     public $email = "";
     public $phone = "";
     public $password = "";
-    public $last_login = 0;
+    public $last_login = "0000-00-00 00:00:00";
     public $UserInstitutionType_id = 0;
     public $institution_name = "";
     public $superuser = 0;
