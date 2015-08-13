@@ -2,6 +2,9 @@
 
 ----
 
+Click here for a [https://www.youtube.com/watch?v=GalISyKkjdo&feature=youtu.be video tutorial] of the installation procedure. 
+
+
 ==Requirements==
 
  * *Linux* operating system
